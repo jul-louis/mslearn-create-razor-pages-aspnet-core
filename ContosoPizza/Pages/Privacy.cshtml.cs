@@ -17,3 +17,6 @@ namespace ContosoPizza.Pages
         }
     }
 }
+
+ViewData["Title"] = "The Home for Pizza Lovers";
+TimeSpan timeInBusiness = DateTime.Now - new DateTime(2018, 8, 14);
